@@ -9,7 +9,7 @@
 
 - **Secondary School Certificate (SSC)**  
   *Gachbari Modern Academy*
-## Skills
+## 👨🏽‍💻 My Skills
 -C
 
 
