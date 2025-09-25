@@ -2,13 +2,13 @@
 ## 👨🏻‍🎓 Education
 
 - **B.Sc in Computer Science and Engineering**  
-  Metropolitan University, Sylhet (Currently running - 1st year, 3rd Semester)  
+  *Metropolitan University, Sylhet (Currently running - 1st year, 3rd Semester)*  
 
 - **Higher Secondary Certificate (HSC)**  
-  Beanibazar Govt. College  
+  *Beanibazar Govt. College*  
 
 - **Secondary School Certificate (SSC)**  
-  Gachbari Modern Academy
+  *Gachbari Modern Academy*
 
 
 <img alt="my stats" align="left" width="470" src="https://github-readme-stats.vercel.app/api?username=shukriabegum&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentagee"/>
