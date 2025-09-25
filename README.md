@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shukria Begum
-<imag![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shukriabegum&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=onedark)
+<img align="left" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shukriabegum&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=onedark)
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shukriabegum&theme=onedark&layout=compact&langs_count=8&card_width=320"  />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shukriabegum&theme=onedark&layout=compact&langs_count=8&card_width=320"  />
 </a>
