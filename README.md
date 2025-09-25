@@ -6,9 +6,9 @@
 </a>
 
  ## 👨🏻‍🎓Education
-- B.sc in Computer Science and Enginnering
- Metropolitan University,Sylhet (Currently running - 1st year,3rd Semester)
-- Higher Secondary Certificate(HSC)
- Beanibazar Govt. College
-- Secondary School Certificate(SSC)
- Gachbari Modern Academy
+- **B.sc in Computer Science and Enginnering**
+ *Metropolitan University,Sylhet (Currently running - 1st year,3rd Semester)*
+- **Higher Secondary Certificate(HSC)**
+ *Beanibazar Govt. College*
+- **Secondary School Certificate(SSC)**
+ *Gachbari Modern Academy*
