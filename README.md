@@ -11,10 +11,19 @@
   *Gachbari Modern Academy*
 ## Skills
 -C
+
+
 -c++
+
+
 -HTML
+
+
 -CSS
+
+
 -MS word,MS powerpoint,MS excel
+
 
 <img alt="my stats" align="left" width="470" src="https://github-readme-stats.vercel.app/api?username=shukriabegum&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentagee"/>
 <a href="https://github.com/anuraghazra/convoychat">
