@@ -5,15 +5,16 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shukriabegum&theme=onedark&layout=compact&langs_count=8&card_width=470"  />
 </a>
 <br>
+<br>
  ## 👨🏻‍🎓Education
-- **B.sc in Computer Science and Enginnering**
+- B.sc in Computer Science and Enginnering
 - <br>
- *Metropolitan University,Sylhet (Currently running - 1st year,3rd Semester)*
+ Metropolitan University,Sylhet (Currently running - 1st year,3rd Semester)
  <br>
-- **Higher Secondary Certificate(HSC)**
+- Higher Secondary Certificate(HSC)
   <br>
- *Beanibazar Govt. College*
+Beanibazar Govt. College
   <br>
-- **Secondary School Certificate(SSC)**
+- Secondary School Certificate(SSC)
   <br>
- *Gachbari Modern Academy*
+Gachbari Modern Academy
