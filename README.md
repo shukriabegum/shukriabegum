@@ -3,3 +3,10 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shukriabegum&theme=onedark&layout=compact&langs_count=8&card_width=470"  />
 </a>
+## 👨🏻‍🎓   Education
+-**B.sc in Computer Science and Enginnering**
+ Metropolitan University,Sylhet*(Currently running - 1st year,3rd Semester)*
+ -**Higher Secondary Certificate(HSC)**
+ Beanibazar Govt. College
+ -**Secondary School Certificate(SSC)**
+ Gachbari Modern Academy
